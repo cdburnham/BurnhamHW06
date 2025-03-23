@@ -1,0 +1,10 @@
+Example text to read
+C
+O
+N
+T
+E
+N
+T
+S
+from the file.
